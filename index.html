@@ -302,7 +302,7 @@
                   <section id="home" class="shadow bg-dark radius-2 padding-dy text-center " >
                      <div class="row v-height-50 v-centred">
                         <div class="col-md-12">
-                           <h1 class="font-weight-600 mb-0">Carlos <mark>Smith
+                           <h1 class="font-weight-600 mb-0">Nguyễn Hữu <mark>Luyện
                               </mark>
                            </h1>
                            <div class="text-rotation">
@@ -445,7 +445,7 @@
                      </div>
                      <div class="row mb-2">
                         <div class="col-lg-12">
-                           <h1 class="font-weight-600 mb-0">Carlos <mark>Smith</mark></h1>
+                           <h1 class="font-weight-600 mb-0">Nguyễn Hữu <mark>Luyện</mark></h1>
                            <h6 class="h5 text-alt">Full Stack Developer</h6>
                         </div>
                      </div>
@@ -470,9 +470,9 @@
                            <div class="text-center  p-2 radius-1 shadow-inner ">
                               <div class="shadow radius-1">
                                  <ul class="text-center info-list font-size-14 p-2 list-inline  mb-0">
-                                    <li><span class="inf">Name </span>  <span class="value">Carlos Smith</span></li>
-                                    <li><span class="inf">Birth</span>  <span class="value"> September 9, 1982 </span></li>
-                                    <li><span class="inf">City</span>  <span class="value"> Melbourne, Australia</span></li>
+                                    <li><span class="inf">Name </span>  <span class="value">Nguyễn Hữu Luyện</span></li>
+                                    <li><span class="inf">Birth</span>  <span class="value">01/05/1993</span></li>
+                                    <li><span class="inf">City</span>  <span class="value">Hồ Chí Minh City</span></li>
                                  </ul>
                               </div>
                            </div>
@@ -481,9 +481,9 @@
                            <div class="text-center  p-2 radius-1 shadow-inner ">
                               <div class="shadow radius-1">
                                  <ul class=" text-center info-list p-2 font-size-14 list-inline mb-0">
-                                    <li><span class="inf">Email</span>  <span class="value">youremail@gmail.com</span></li>
+                                    <li><span class="inf">Email</span>  <span class="value">huuluyen93.com</span></li>
                                     <li><span class="inf">Phone</span>  <span class="value"> + 123 456 789 456  </span></li>
-                                    <li><span class="inf">Skype</span>  <span class="value">Carlos_Smith</span></li>
+                                    <li><span class="inf">Skype</span>  <span class="value">huuluyen93</span></li>
                                  </ul>
                               </div>
                            </div>
